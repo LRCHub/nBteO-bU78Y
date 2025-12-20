@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "僕らまだアンダーグラウンド",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-20T16:14:15.620229Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_僕らまだアンダーグラウンド_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド",
+      "artist": "Eve (57)",
+      "has_synced": true,
+      "path": "select/02_僕らまだアンダーグラウンド_Eve_(57).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド (feat. 星乃一歌&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/03_僕らまだアンダーグラウンド_(feat._星乃一歌&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/04_僕らまだアンダーグラウンド_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/05_僕らまだアンダーグラウンド_Eve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド - We're Still Underground (feat. 星乃一歌&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/06_僕らまだアンダーグラウンド_-_We're_Still_Underground_(feat._星乃一歌&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド",
+      "artist": "Eve feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/07_僕らまだアンダーグラウンド_Eve_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/08_僕らまだアンダーグラウンド_Eve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド",
+      "artist": "Eve feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/09_僕らまだアンダーグラウンド_Eve_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド - Bokuramadaunderground",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/10_僕らまだアンダーグラウンド_-_Bokuramadaunderground_Eve.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド",
+      "artist": "Leo/need feat. 星乃一歌&日野森志歩&初音ミク",
+      "has_synced": true,
+      "path": "select/11_僕らまだアンダーグラウンド_Leo_need_feat._星乃一歌&日野森志歩&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド (feat. 星乃一歌&日野森志歩&初音ミク)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/12_僕らまだアンダーグラウンド_(feat._星乃一歌&日野森志歩&初音ミク)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/13_僕らまだアンダーグラウンド_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド (feat. 星乃一歌&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/14_僕らまだアンダーグラウンド_(feat._星乃一歌&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド - Eve MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/15_僕らまだアンダーグラウンド_-_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド (feat. 星乃一歌&日野森志歩&初音ミク)",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/16_僕らまだアンダーグラウンド_(feat._星乃一歌&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "僕らまだアンダーグラウンド",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/17_僕らまだアンダーグラウンド_Leo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕らまだアンダーグラウンド",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_僕らまだアンダーグラウンド_Eve.txt"
+    }
+  ]
+}
